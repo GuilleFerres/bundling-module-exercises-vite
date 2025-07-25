@@ -1,5 +1,5 @@
 import "./mystyles.css";
 
-const user = "John Doe";
+const user: string = "John Doe";
 
 console.log(`Hello ${user}!`);
